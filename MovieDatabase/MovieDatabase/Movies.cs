@@ -115,7 +115,7 @@ namespace MovieDatabase
         }
 
 
-        //Função não está a funcionar bem
+        //corrigir o movieReadingList destas funções, com erro de System Null Refference Exception
         public static MovieDescription GetMovieDescription(string u)
         {
             int x = GetMovieIndex(u);
