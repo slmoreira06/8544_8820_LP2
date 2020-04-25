@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MovieDatabase.Movie">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEQAAKAEAECAAAAAiAAAAAgAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Movie.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="watched" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MovieDatabase.MovieDescription">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="MovieDatabase.MovieDescription.MovieGenre" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MovieDescription.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEAgAAhEAAIAAAACAQAAAAABAAAAAQAAAAA=</HashCode>
+      <FileName>MovieDescription.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rating" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MovieDatabase.MovieDisplayInfo">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQEAAAAAAAABgAEgAAAAAAAAAAIAAAAqAAAAAAAAAg=</HashCode>
+      <FileName>MovieDisplayInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieDatabase.Movies">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAEAAAAAAAAAAQAAAAAAEEAAAAAEAABAAgA=</HashCode>
+      <FileName>Movies.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="movieList" />
+      <Field Name="movieRatingList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MovieDatabase.Person">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="MovieDatabase.Person.Genders" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Person.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAQACEAEAAgAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieDatabase.Program" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieDatabase.User">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAECAAAAAgAAAAAAAAAIQAAAAEAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieDatabase.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MovieDatabase.WatchList" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAACAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Movie.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MovieDatabase.MovieRating" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABAAAAAAAAABAIBAAAAAAEAAAACAQCAAAAAAI=</HashCode>
+      <FileName>MovieDescription.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

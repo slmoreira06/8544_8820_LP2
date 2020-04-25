@@ -1,0 +1,10 @@
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csprojAssemblyReference.cache
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.Form1.resources
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.cache
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\Sara\OneDrive\Desktop\LP2-master\lp2\TO\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.pdb
